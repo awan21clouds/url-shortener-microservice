@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "0.1.0",
+  "description": "FCC url shortener",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4",
+    "shortid": "^2.2.4",
+    "valid-url": "^1.0.9"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },  
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
